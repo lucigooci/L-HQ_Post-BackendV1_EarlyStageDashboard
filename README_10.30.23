@@ -1,1 +1,13 @@
+#Overview
 
+//Basically set up the backend mongodb "Library" and the Express.js "Library view" (basically the access points to pull the data) 
+like login, registration, etc. And when it came time to pivot into the Dashboard/Frontend things got messy
+
+I didnt realize how critical the organization was so I took some time to reorganize the whole project - currently there is a file called 
+"SNEAT_DASHBOARD_TEMP_INSTILLATION" - I had ran against the wall several times trying to install this VUE.js dashboard template I bought
+but its being a pain - it became messy and so I was inspired to clean my shit up. 
+
+I havent deleted the "sneat" thing yet, but I wanted to start the process of regularly saving my version controls cuz now I'm worried that
+with all the banging against the wall trying to make this dashboard work, I may have lost some parts of the early pieces. 
+
+Glad to be building the habit now. Will test function once the dash is set up. 
